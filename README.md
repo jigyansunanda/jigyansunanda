@@ -6,6 +6,9 @@
   </a>
 </p> -->
 
+- 🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
+- 🌱 I’m currently learning how to design large scale distributed systems.
+- 👯 I’m looking to collaborate on full-stack projects (MERN stack)
 
 <!--
 
