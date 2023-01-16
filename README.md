@@ -5,10 +5,11 @@ Check out my latest projects 👇🏼
 </h3>
 
 <p float="left">
+<img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer" href="https://jigyansunanda.github.io/Shortest-Path-Visualizer"/>
+</p>
 
-<img height="40%" width="45%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer" href="https://jigyansunanda.github.io/Shortest-Path-Visualizer"/>
-
-<img height="40%" width="45%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner" href="https://github.com/jigyansunanda/Online-Code-Runner" />
+<p float="right">
+<img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner" href="https://github.com/jigyansunanda/Online-Code-Runner" />
 </p>
 
 -   🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
