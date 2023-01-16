@@ -2,7 +2,8 @@
 
 <h3 align="center"> Check out my latest projects 👇🏼 </h3>
 
-[<p>Shortest Path Visualizer</p>](https://jigyansunanda.github.io/Shortest-Path-Visualizer)
+[Shortest Path Visualizer](https://jigyansunanda.github.io/Shortest-Path-Visualizer)
+[Online Code Runner](https://github.com/jigyansunanda/Online-Code-Runner)
 
 <p float="center">
 <img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer" />
