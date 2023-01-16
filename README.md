@@ -14,7 +14,7 @@ Check out my latest projects 👇🏼
 </p> -->
 
 <img float="left" height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer"/>
-<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner"/>
+<img float="right" height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner"/>
 
 -   🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
 -   🌱 I’m currently learning how to design large scale distributed systems.
