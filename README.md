@@ -2,11 +2,11 @@
 
 <h3 align="center">
 Check out my latest projects 👇🏼
-</p>
+</h3>
 
 <p float="left">
-<img height="40%" width="45%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png"/>
-<img height="40%" width="45%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png"/>
+[<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer"/>](https://jigyansunanda.github.io/Shortest-Path-Visualizer/)
+[<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner"/>](https://github.com/jigyansunanda/Online-Code-Runner)
 </p>
 
 -   🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 #### 📊 Algorithmic Problem Solving
 
 <p align="center">
-<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
+<img height="40%" width="55%" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
