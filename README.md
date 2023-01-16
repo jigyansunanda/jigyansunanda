@@ -5,12 +5,12 @@ Check out my latest projects 👇🏼
 </h3>
 
 <p float="left">
-<!-- [<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer">](https://jigyansunanda.github.io/Shortest-Path-Visualizer/)
-[<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner">](https://github.com/jigyansunanda/Online-Code-Runner) -->
-
-[[https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png|width=50%|height=40%]]
-
-[[https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png|width=50%|height=40%]]
+[<P>
+<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer">
+</p>](https://jigyansunanda.github.io/Shortest-Path-Visualizer/)
+[<p>
+<img height="40%" width="50%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner">
+</p>](https://github.com/jigyansunanda/Online-Code-Runner)
 
 </p>
 
