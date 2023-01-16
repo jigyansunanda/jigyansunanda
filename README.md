@@ -1,11 +1,13 @@
 ## Hi there 👋 I am Jigyansu Nanda
 
-<p align="center" font-weight="bold">
+<h3 align="center">
 Check out my latest projects 👇🏼
 </p>
 
+<p float="left">
 <img height="40%" width="45%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png"/>
 <img height="40%" width="45%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png"/>
+</p>
 
 -   🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
 -   🌱 I’m currently learning how to design large scale distributed systems.
