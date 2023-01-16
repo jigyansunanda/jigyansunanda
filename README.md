@@ -4,11 +4,9 @@
 Check out my latest projects 👇🏼
 </h3>
 
-<p float="left">
+<p float="center">
 <img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer" href="https://jigyansunanda.github.io/Shortest-Path-Visualizer"/>
-</p>
 
-<p float="right">
 <img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner" href="https://github.com/jigyansunanda/Online-Code-Runner" />
 </p>
 
