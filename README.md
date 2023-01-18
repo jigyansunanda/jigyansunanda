@@ -1,4 +1,4 @@
-## Hi there 👋 I am Jigyansu Nanda
+<h1 align="center"><Jigyansu></h1>
 
 <h3 align="center"> Check out my latest projects 👇🏼 </h3>
 
