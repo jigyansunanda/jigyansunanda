@@ -1,4 +1,4 @@
-<h1 align="center">&lt; Jigyansu &gt;</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="center"> Check out my latest projects 👇🏼 </h3>
 
