@@ -44,8 +44,10 @@ Here are some ideas to get you started:
 -->
 
 <p float="left">
+    <!--
 <img height="200em" width="420em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="200em" width="420em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
+    -->
+<img height="250em" width="840em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
 </p>
 
 <!--  From here -->
