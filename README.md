@@ -1,18 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jigyansu Nanda</h1>
-
-<h3 align="center"> Check out my latest projects 👇🏼 </h3>
-
-[Shortest Path Visualizer](https://jigyansunanda.github.io/Shortest-Path-Visualizer)  
-[Online Code Runner](https://github.com/jigyansunanda/Online-Code-Runner)
-
-<p align="center">
-  <img height="200px" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visualizer" />
-  <img height="200px" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner" />
-</p>
-
--   🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
--   🌱 I’m currently learning how to design large-scale distributed systems.
--   👯 I’m looking to collaborate on full-stack projects (MERN stack).
+<h2 align="center">Hi there 👋, I'm Jigyansu Nanda</h2>
 
 ### 🏢 Work Experience
 
