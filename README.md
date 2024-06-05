@@ -71,7 +71,8 @@ _Bangalore, India (July 2021 – August 2022)_
 #### Cloud Service
 
 <p>
-  <img height="32" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <!-- <img height="32" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> -->
+  <img height="32" src="https://res.cloudinary.com/practicaldev/image/fetch/s--891ylAtK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite"/>
 </p>
 
 ### 📊 Algorithmic Problem Solving
