@@ -18,26 +18,21 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### 🎓 Education
 
-**IIT Delhi**  
-_New Delhi, India (July 2017 - May 2021)_  
-Bachelor of Technology
-
-**Naidu +2 Science College**  
-_Bhubaneswar, India (June 2014 – May 2016)_  
-Higher Secondary Education (11th and 12th)
-
-**Kalinga Vidyapitha**  
-_Bhubaneswar, India (May 2011 – May 2014)_  
-Secondary Education
+| Institution                  | Location           | Duration               | Qualification                              |
+| ---------------------------- | ------------------ | ---------------------- | ------------------------------------------ |
+| **IIT Delhi**                | New Delhi, India   | _July 2017 - May 2021_ | Bachelor of Technology                     |
+| **Naidu +2 Science College** | Bhubaneswar, India | _June 2014 – May 2016_ | Higher Secondary Education (11th and 12th) |
+| **Kalinga Vidyapitha**       | Bhubaneswar, India | _May 2011 – May 2014_  | Secondary Education                        |
 
 ### 🛠️ Skills
 
 #### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
@@ -53,8 +48,8 @@ Secondary Education
 
 <p>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 </p>
 
 #### Backend Frameworks
