@@ -1,61 +1,88 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Jigyansu Nanda</h1>
 
-<h3 align="center"> Check out my latest projects 👇🏼 </h3>
+### 🏢 Work Experience
 
-[Shortest Path Visualizer](https://jigyansunanda.github.io/Shortest-Path-Visualizer)
-[Online Code Runner](https://github.com/jigyansunanda/Online-Code-Runner)
+**Fullstack Software Engineer at Chef-On-Wheelz**  
+*Work From Home (February 2024 – April 2024)*  
+- **Backend**: Built the complete backend infrastructure using Node.js and Express.js, with JWT-based authentication and authorization.
+- **Frontend**: Developed intuitive web and mobile interfaces using React.js, improving user engagement and retention.
+- **Deployment**: Devised a deployment strategy using AWS EC2, Nginx, and AWS Route 53 to ensure reliable performance and high availability.
 
-<p float="center">
-<img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/SPF.png" alt="Shortest Path Visulaizer" />
-<img height="40%" width="48%" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/media/OCR.png" alt="Online Code Runner" />
+**Software Engineer at HCL Technologies**  
+*Bangalore, India (July 2021 – August 2022)*  
+- **Client Google (E112 ELS)**: Developed and tested Android 12's ELS using Python, ensuring compliance with EU regulations for caller location.
+- **Client Keysight (IxLoad Video Test solutions)**: Enhanced video quality assessment and streaming performance using advanced algorithms.
+- **HCL Internal Platform**: Managed concurrency issues, optimized legacy code, and created internal applications for system monitoring and IP shifting.
+
+### 🎓 Education
+
+**IIT Delhi**  
+*New Delhi, India (July 2017 - May 2021)*  
+Bachelor of Technology
+
+**Naidu +2 Science College**  
+*Bhubaneswar, India (June 2014 – May 2016)*  
+Higher Secondary Education (11th and 12th)
+
+**Kalinga Vidyapitha**  
+*Bhubaneswar, India (May 2011 – May 2014)*  
+Secondary Education
+
+### 🛠️ Skills
+
+#### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
--   🔭 I’m currently working on a Shortest Path Visualizer project (Front-end project) and an Online Compiler (Front-end + Back-end) project.
--   🌱 I’m currently learning how to design large scale distributed systems.
--   👯 I’m looking to collaborate on full-stack projects (MERN stack)
+#### Domain Specific Tools / Languages
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-<!--
+#### JavaScript Libraries
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+#### Backend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Database
+<p>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
 
-#### 📊 Algorithmic Problem Solving
+#### Cloud Service
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### 📊 Algorithmic Problem Solving
 
 <p align="center">
-<img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
+  <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
 </p>
 
-<b>⚡ Github Stats</b>
+### ⚡ GitHub Stats
 
-<!--
-<p float="left">
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+  <img height="200em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
 </p>
--->
-
-<p float="left">
-    <!--
-<img height="200em" width="420em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-    -->
-<img height="250em" width="840em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
-</p>
-
 
 <h3 align="center">Connect with me:</h3>
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/jigyansunanda"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jigyansunanda"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="40px"/></a>
+</p>
