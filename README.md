@@ -29,12 +29,12 @@ _Bangalore, India (July 2021 – August 2022)_
 #### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img height="32" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/-Rust-b7410e?style=flat-square&logo=rust&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img height="32" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=yellow"/>
 </p>
 
 #### Domain Specific Tools / Languages
