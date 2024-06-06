@@ -29,12 +29,12 @@ _Bangalore, India (July 2021 – August 2022)_
 ### Programming Languages
 
 <p align="center">
-<img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
-<img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC"/>
-<img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C"/>
-<img  height="25"  src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=b7410e"/>
-<img  height="25"  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=007396"/>
-<img  height="25"  src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=yellow&labelColor=3776AB"/>
+<img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&color=grey"/>
+<img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=grey"/>
+<img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=grey"/>
+<img  height="25"  src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=b7410e&color=grey"/>
+<img  height="25"  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=007396&color=grey"/>
+<img  height="25"  src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=yellow&labelColor=3776AB&color=grey"/>
 </p>
 
 ### Domain Specific Tools / Languages
@@ -85,9 +85,4 @@ _Bangalore, India (July 2021 – August 2022)_
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jigyansunanda"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="40px"/></a>
 </p>
