@@ -3,17 +3,15 @@
 ## 🏢 Work Experience
 
 **Fullstack Software Engineer at Chef-On-Wheelz**
-
 _Work From Home (February 2024 – April 2024)_
 
--   **Backend**: Built the complete backend infrastructure using **Node.js** and **Express.js**, with **JWT**-based **authentication** and **authorization** mechanisms.
+-   **Backend**: Built the complete backend infrastructure using **Node.js** and **Express.js**, architecting scalable APIs along with **JWT**-based **authentication** and **authorization** mechanisms.
 
--   **Frontend**: Developed intuitive web and mobile interfaces using **React.js**, improving user engagement and retention.
+-   **Frontend**: Designed and Developed intuitive web and mobile interfaces of the entire application using **React.js**. Reduced load times of routes to enhance user engagement and user retention.
 
--   **Deployment**: Devised a deployment strategy using **AWS EC2**, **Nginx**, and **AWS Route 53** to ensure reliable performance and high availability.
+-   **Deployment**: Created seamless deployment strategy using **AWS EC2**, **Nginx** ensuring reliable performance and high availability of Chef-On-Wheelz. Used **AWS Route 53** for routing.
 
 **Software Engineer at HCL Technologies**
-
 _Bangalore, India (July 2021 – August 2022)_
 
 -   **Client Google (E112 ELS):**
