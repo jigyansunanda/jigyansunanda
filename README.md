@@ -2,19 +2,36 @@
 
 ## 🏢 Work Experience
 
-**Fullstack Software Engineer at Chef-On-Wheelz**  
+**Fullstack Software Engineer at Chef-On-Wheelz**
+
 _Work From Home (February 2024 – April 2024)_
 
--   **Backend**: Built the complete backend infrastructure using Node.js and Express.js, with JWT-based authentication and authorization.
--   **Frontend**: Developed intuitive web and mobile interfaces using React.js, improving user engagement and retention.
--   **Deployment**: Devised a deployment strategy using AWS EC2, Nginx, and AWS Route 53 to ensure reliable performance and high availability.
+-   **Backend**: Built the complete backend infrastructure using **Node.js** and **Express.js**, with **JWT**-based **authentication** and **authorization** mechanisms.
 
-**Software Engineer at HCL Technologies**  
+-   **Frontend**: Developed intuitive web and mobile interfaces using **React.js**, improving user engagement and retention.
+
+-   **Deployment**: Devised a deployment strategy using **AWS EC2**, **Nginx**, and **AWS Route 53** to ensure reliable performance and high availability.
+
+**Software Engineer at HCL Technologies**
+
 _Bangalore, India (July 2021 – August 2022)_
 
--   **Client Google (E112 ELS)**: Developed and tested Android 12's ELS using Python, ensuring compliance with EU regulations for caller location.
--   **Client Keysight (IxLoad Video Test solutions)**: Enhanced video quality assessment and streaming performance using advanced algorithms.
--   **HCL Internal Platform**: Managed concurrency issues, optimized legacy code, and created internal applications for system monitoring and IP shifting.
+-   **Client Google (E112 ELS):**
+
+    -   Developed and tested Android 12's **ELS (Emergency Location Services)** using **Python**, enabling secure Geo-location data transmission between endpoints via **HTTPS** to ensure compliance with **E112 caller location** required mandatory by **EU** regulation.
+    -   Enhanced data access performance by **43%** through the implementation and maintainance of a **Caching Layer using Redis**.
+
+-   **Client Keysight (IxLoad Video Test solutions):**
+
+    -   Applied advanced **VQmon/HD algorithm** for video quality assessment, increasing real-time audio and video performance accuracy over IP networks by **7.8%**.
+    -   Conducted thorough analysis and testing of system components such as **IPTV networks**, **VoD platforms** and **OTT video delivery systems**.
+    -   Improved video streaming performance by implementing more efficient **Adaptive Streaming Emulation** and **User-initiated Streaming Emulation** solution in IxLoad.
+
+-   **HCL Internal Platform:**
+    -   Handled **concurrency issues** and implemented **thread safety** in IMS subsystem inside LTE Sequencer.
+    -   Created two internal applications: **IMS Health Monitor** and **IP Shifting Utility** for SAS Sequencer.
+    -   Optimized Legacy codebase written in **Python** and **C#** and added new features.
+    -   Participated in code reviews and provided mentorship to junior developers and hosted multiple KT sessions.
 
 ## 🎓 Education
 
