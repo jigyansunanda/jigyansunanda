@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Jigyansu Nanda</h2>
 
-### 🏢 Work Experience
+## 🏢 Work Experience
 
 **Fullstack Software Engineer at Chef-On-Wheelz**  
 _Work From Home (February 2024 – April 2024)_
@@ -16,7 +16,7 @@ _Bangalore, India (July 2021 – August 2022)_
 -   **Client Keysight (IxLoad Video Test solutions)**: Enhanced video quality assessment and streaming performance using advanced algorithms.
 -   **HCL Internal Platform**: Managed concurrency issues, optimized legacy code, and created internal applications for system monitoring and IP shifting.
 
-### 🎓 Education
+## 🎓 Education
 
 | Institution                  | Location           | Duration               | Qualification                              |
 | ---------------------------- | ------------------ | ---------------------- | ------------------------------------------ |
@@ -28,7 +28,7 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Programming Languages
 
-<p>
+<p align="center">
 <img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
 <img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC"/>
 <img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=00599C"/>
@@ -39,14 +39,14 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Domain Specific Tools / Languages
 
-<p>
+<p align="center">
 <img  height="25"  src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26"/>
 <img  height="25"  src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6"/>
 </p>
 
 ### JavaScript Libraries
 
-<p>
+<p align="center">
 <img  height="25"  src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB"/>
 <img  height="25"  src="https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux&logoColor=white&labelColor=61DAFB"/>
 <img  height="25"  src="https://img.shields.io/badge/-jQuery-000000?style=flat-square&logo=jquery&logoColor=white&labelColor=0769AD"/>
@@ -55,14 +55,14 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Backend Frameworks
 
-<p>
+<p align="center">
 <img  height="25"  src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white&labelColor=339933"/>
 <img  height="25"  src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=563D7C"/>
 </p>
 
 ### Database
 
-<p>
+<p align="center">
 <img  height="25"  src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1"/>
 <img  height="25"  src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248"/>
 <img  height="25"  src="https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis&logoColor=white&labelColor=DC382D"/>
@@ -70,7 +70,7 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Cloud Service
 
-<p>
+<p align="center">
   <!-- <img height="25" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> -->
   <img height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--891ylAtK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite"/>
 </p>
