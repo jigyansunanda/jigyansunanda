@@ -24,17 +24,11 @@ _Bangalore, India (July 2021 – August 2022)_
 | **Naidu +2 Science College** | Bhubaneswar, India | _June 2014 – May 2016_ | Higher Secondary Education (11th and 12th) |
 | **Kalinga Vidyapitha**       | Bhubaneswar, India | _May 2011 – May 2014_  | Secondary Education                        |
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-#### Programming Languages
+### Programming Languages
 
 <p>
-  <!-- <img height="32" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img height="32" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-Rust-b7410e?style=flat-square&logo=rust&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/> -->
 <img  height="32"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
 <img  height="32"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC"/>
 <img  height="32"  src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=00599C"/>
@@ -43,38 +37,38 @@ _Bangalore, India (July 2021 – August 2022)_
 <img  height="32"  src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=yellow&labelColor=3776AB"/>
 </p>
 
-#### Domain Specific Tools / Languages
+### Domain Specific Tools / Languages
 
 <p>
-  <img height="32" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img  height="32"  src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26"/>
+<img  height="32"  src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6"/>
 </p>
 
-#### JavaScript Libraries
+### JavaScript Libraries
 
 <p>
-  <img height="32" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img height="32" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img  height="32"  src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB"/>
+<img  height="32"  src="https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux&logoColor=white&labelColor=61DAFB"/>
+<img  height="32"  src="https://img.shields.io/badge/-jQuery-000000?style=flat-square&logo=jquery&logoColor=white&labelColor=0769AD"/>
+<img  height="32"  src="https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white&labelColor=563D7C"/>
 </p>
 
-#### Backend Frameworks
+### Backend Frameworks
 
 <p>
-  <img height="32" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img  height="32"  src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white&labelColor=339933"/>
+<img  height="32"  src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=563D7C"/>
 </p>
 
-#### Database
+### Database
 
 <p>
-  <img height="32" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img height="32" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img  height="32"  src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1"/>
+<img  height="32"  src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248"/>
+<img  height="32"  src="https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis&logoColor=white&labelColor=DC382D"/>
 </p>
 
-#### Cloud Service
+### Cloud Service
 
 <p>
   <!-- <img height="32" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> -->
