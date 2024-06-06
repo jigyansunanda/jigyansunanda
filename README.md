@@ -29,61 +29,50 @@ _Bangalore, India (July 2021 – August 2022)_
 ### Programming Languages
 
 <p align="center">
-<img  height="25"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/JavaScript.svg" />
-<img  height="25"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/TypeScript.svg"/>
-<img  height="25"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/CPP.svg"/>
-<img  height="25"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/Rust.svg"/>
-<img  height="25"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/Java-Light.svg"/>
-<img  height="25"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/Python-Dark.svg"/>
-</p>
-
-### Programming Languages
-
-<p align="center">
-<img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
-<img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC"/>
-<img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=00599C"/>
-<img  height="25"  src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=b7410e"/>
-<img  height="25"  src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white&labelColor=007396"/>
-<img  height="25"  src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=yellow&labelColor=3776AB"/>
+<img  height="30"  src="https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
+<img  height="30"  src="https://img.shields.io/badge/-TypeScript-000000?style=plastic&logo=typescript&logoColor=white&labelColor=007ACC"/>
+<img  height="30"  src="https://img.shields.io/badge/-C++-000000?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=00599C"/>
+<img  height="30"  src="https://img.shields.io/badge/-Rust-000000?style=plastic&logo=rust&logoColor=white&labelColor=b7410e"/>
+<img  height="30"  src="https://img.shields.io/badge/-Java-000000?style=plastic&logo=openjdk&logoColor=white&labelColor=007396"/>
+<img  height="30"  src="https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=yellow&labelColor=3776AB"/>
 </p>
 
 ### Domain Specific Tools / Languages
 
 <p align="center">
-<img  height="25"  src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26"/>
-<img  height="25"  src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6"/>
+<img  height="30"  src="https://img.shields.io/badge/-HTML5-000000?style=plastic&logo=html5&logoColor=white&labelColor=E34F26"/>
+<img  height="30"  src="https://img.shields.io/badge/-CSS3-000000?style=plastic&logo=css3&logoColor=white&labelColor=1572B6"/>
 </p>
 
 ### JavaScript Libraries
 
 <p align="center">
-<img  height="25"  src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB"/>
-<img  height="25"  src="https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux&logoColor=white&labelColor=61DAFB"/>
-<img  height="25"  src="https://img.shields.io/badge/-jQuery-000000?style=flat-square&logo=jquery&logoColor=white&labelColor=0769AD"/>
-<img  height="25"  src="https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white&labelColor=563D7C"/>
+<img  height="30"  src="https://img.shields.io/badge/-React-000000?style=plastic&logo=react&logoColor=black&labelColor=61DAFB"/>
+<img  height="30"  src="https://img.shields.io/badge/-Redux-000000?style=plastic&logo=redux&logoColor=white&labelColor=764abc"/>
+<img  height="30"  src="https://img.shields.io/badge/-jQuery-000000?style=plastic&logo=jquery&logoColor=white&labelColor=0769AD"/>
+<img  height="30"  src="https://img.shields.io/badge/-Bootstrap-000000?style=plastic&logo=bootstrap&logoColor=white&labelColor=563D7C"/>
 </p>
 
 ### Backend Frameworks
 
 <p align="center">
-<img  height="25"  src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white&labelColor=339933"/>
-<img  height="25"  src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=563D7C"/>
+<img  height="30"  src="https://img.shields.io/badge/-Node.js-000000?style=plastic&logo=node.js&logoColor=white&labelColor=339933"/>
+<img  height="30"  src="https://img.shields.io/badge/-Express-000000?style=plastic&logo=express&logoColor=white&labelColor=563D7C"/>
 </p>
 
 ### Database
 
 <p align="center">
-<img  height="25"  src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1"/>
-<img  height="25"  src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248"/>
-<img  height="25"  src="https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis&logoColor=white&labelColor=DC382D"/>
+<img  height="30"  src="https://img.shields.io/badge/-SQL-000000?style=plastic&logo=postgresql&logoColor=white&labelColor=4479A1"/>
+<img  height="30"  src="https://img.shields.io/badge/-MongoDB-000000?style=plastic&logo=mongodb&logoColor=white&labelColor=47A248"/>
+<img  height="30"  src="https://img.shields.io/badge/-Redis-000000?style=plastic&logo=redis&logoColor=white&labelColor=DC382D"/>
 </p>
 
 ### Cloud Service
 
 <p align="center">
-  <!-- <img height="25" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> -->
-  <img height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--891ylAtK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite"/>
+  <!-- <img height="30" src="https://img.shields.io/badge/-AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/> -->
+  <img  height="30"  src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/AWS-Dark.svg"/>
 </p>
 
 ### 📊 Algorithmic Problem Solving
