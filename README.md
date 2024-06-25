@@ -92,11 +92,13 @@ _Bangalore, India (July 2021 – August 2022)_
   <img  height="30" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/AWS-Dark.svg"/>
 </p>
 
+ <!--
 ### 📊 Algorithmic Problem Solving
 
 <p align="center">
   <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
 </p>
+-->
 
 ### ⚡ GitHub Stats
 
