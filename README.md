@@ -103,5 +103,5 @@ _Bangalore, India (July 2021 – August 2022)_
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=tokyonight&show_icons=false&hide_border=true&langs_count=10&hide=css,html"/>
+  <img src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=dark&show_icons=true&hide_border=true&langs_count=10&hide=css,html"/>
 </p>
