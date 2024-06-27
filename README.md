@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Jigyansu Nanda</h2>
+<h2 align="center">Jigyansu Nanda</h2>
 
 ## 🏢 Work Experience
 
@@ -103,5 +103,5 @@ _Bangalore, India (July 2021 – August 2022)_
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=onedark&show_icons=true&hide_border=true&langs_count=10&hide=css,html"/>
+  <img src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=radical&show_icons=true&hide_border=true&langs_count=10&hide=css,html"/>
 </p>
