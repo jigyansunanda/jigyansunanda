@@ -4,11 +4,11 @@
 
 **Fullstack Software Engineer at Chef-On-Wheelz**
 
-_Work From Home (February 2024 – April 2024)_
+_Melbourne, Victoria, Australia (February 2024 – April 2024)_
 
--   **Backend**: Built the complete backend infrastructure using **Node.js** and **Express.js**, architecting scalable APIs along with **JWT**-based **authentication** and **authorization** mechanisms.
+-   **Backend**: Built the complete backend infrastructure of Chef On Wheelz using **Node.js** and **Express.js**, architecting scalable APIs along with **JWT** based **authentication** and **authorization** mechanisms.
 
--   **Frontend**: Designed and Developed intuitive web and mobile interfaces of the entire application using **React.js**. Reduced load times of routes to enhance user engagement and user retention.
+-   **Frontend**: Designed and Developed intuitive web and mobile interfaces of Chef On Wheelz using **React.js** and **Redux**. Reduced load times of routes to enhance user engagement and user retention.
 
 -   **Deployment**: Created seamless deployment strategy using **AWS EC2**, **Nginx** ensuring reliable performance and high availability of Chef-On-Wheelz. Used **AWS Route 53** for routing.
 
@@ -16,22 +16,17 @@ _Work From Home (February 2024 – April 2024)_
 
 _Bangalore, India (July 2021 – August 2022)_
 
--   **Client Google (E112 ELS):**
+-   **Client Google:** Developed and tested Android 12’s **ELS (Emergency Location Services)** using **Spring Framework**, enabling secure Geo-location data transmission between emergency endpoint and PSAP via **HTTPS** to ensure compliance with **E112 caller location** required mandatory by **EU** regulation.
 
-    -   Developed and tested Android 12's **ELS (Emergency Location Services)** using **Python**, enabling secure Geo-location data transmission between endpoints via **HTTPS** to ensure compliance with **E112 caller location** required mandatory by **EU** regulation.
-    -   Enhanced data access performance by **43%** through the implementation and maintainance of a **Caching Layer using Redis**.
+-   Improved data access performance by **43%** through the implementation and maintainance of a **Caching Layer using Redis** while maintaining the **minimum accuracy of 80%** required by European Emergency Number Association.
 
--   **Client Keysight (IxLoad Video Test solutions):**
+-   **Client Keysight (IxLoad Video Test solutions):** Applied advanced **VQmon/HD** algorithm for video quality assessment, increasing real-time audio and video performance accuracy over IPTV networks by **7.8%** in Keysight’s **IxLoad Video Test Solution**.
 
-    -   Applied advanced **VQmon/HD algorithm** for video quality assessment, increasing real-time audio and video performance accuracy over IP networks by **7.8%**.
-    -   Conducted thorough analysis and testing of system components such as **IPTV networks**, **VoD platforms** and **OTT video delivery systems**.
-    -   Improved video streaming performance by implementing more efficient **Adaptive Streaming Emulation** and **User-initiated Streaming Emulation** solution in IxLoad.
+-   Enhanced video streaming performance by implementing more efficient Adaptive Streaming Emulation and User initiated Streaming Emulation in system components such as VoD platforms and OTT video delivery systems.
 
--   **HCL Internal Platform:**
-    -   Handled **concurrency issues** and implemented **thread safety** in IMS subsystem inside LTE Sequencer.
-    -   Created two internal applications: **IMS Health Monitor** and **IP Shifting Utility** for SAS Sequencer.
-    -   Optimized Legacy codebase written in **Python** and **C#** and added new features.
-    -   Participated in code reviews and provided mentorship to junior developers and hosted multiple KT sessions.
+-   Handled **concurrency issues** and implemented **thread safety** in IMS subsystem inside LTE Sequencer tool.
+
+-   Created two internal applications: **IMS Health Monitor** and **IP Shifting Utility** and optimized legacy codebase.
 
 ## 🎓 Education
 
@@ -48,6 +43,7 @@ _Bangalore, India (July 2021 – August 2022)_
 <p align="center">
 <img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=grey"/>
+<img  height="25"  src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=white&labelColor=00ADD8&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=b7410e&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=007396&color=grey"/>
@@ -92,13 +88,11 @@ _Bangalore, India (July 2021 – August 2022)_
   <img  height="30" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/AWS-Dark.svg"/>
 </p>
 
-
 ### 📊 Algorithmic Problem Solving
 
 <p align="center">
   <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
 </p>
-
 
 ### ⚡ GitHub Stats
 
