@@ -28,13 +28,13 @@ _Bangalore, India (July 2021 – August 2022)_
 
 -   Created two internal applications: **IMS Health Monitor** and **IP Shifting Utility** and optimized legacy codebase. -->
 
-## 🎓 Education
+<!-- ## 🎓 Education
 
 | Institution                  | Location           | Duration               | Qualification                              |
 | ---------------------------- | ------------------ | ---------------------- | ------------------------------------------ |
 | **IIT Delhi**                | New Delhi, India   | _July 2017 - May 2021_ | Bachelor of Technology                     |
 | **Naidu +2 Science College** | Bhubaneswar, India | _June 2014 – May 2016_ | Higher Secondary Education (11th and 12th) |
-| **Kalinga Vidyapitha**       | Bhubaneswar, India | _May 2011 – May 2014_  | Secondary Education                        |
+| **Kalinga Vidyapitha**       | Bhubaneswar, India | _May 2011 – May 2014_  | Secondary Education                        | -->
 
 ## 🛠️ Skills
 
