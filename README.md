@@ -36,14 +36,14 @@ _Bangalore, India (July 2021 – August 2022)_
 | **Naidu +2 Science College** | Bhubaneswar, India | _June 2014 – May 2016_ | Higher Secondary Education (11th and 12th) |
 | **Kalinga Vidyapitha**       | Bhubaneswar, India | _May 2011 – May 2014_  | Secondary Education                        | -->
 
-## 🛠️ Skills
+<!-- ## 🛠️ Skills -->
 
 ### Programming Languages
 
 <p align="center">
+<img  height="25"  src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=white&labelColor=00ADD8&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=grey"/>
-<img  height="25"  src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=white&labelColor=00ADD8&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=b7410e&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=007396&color=grey"/>
