@@ -1,6 +1,6 @@
-<h2 align="center">Jigyansu Nanda</h2>
+<!-- <h2 align="center">Jigyansu Nanda</h2> -->
 
-## 🏢 Work Experience
+<!-- ## 🏢 Work Experience
 
 **Fullstack Software Engineer at Chef-On-Wheelz**
 
@@ -26,7 +26,7 @@ _Bangalore, India (July 2021 – August 2022)_
 
 -   Handled **concurrency issues** and implemented **thread safety** in IMS subsystem inside LTE Sequencer tool.
 
--   Created two internal applications: **IMS Health Monitor** and **IP Shifting Utility** and optimized legacy codebase.
+-   Created two internal applications: **IMS Health Monitor** and **IP Shifting Utility** and optimized legacy codebase. -->
 
 ## 🎓 Education
 
