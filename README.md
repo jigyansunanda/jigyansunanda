@@ -96,12 +96,12 @@ _Bangalore, India (July 2021 – August 2022)_
 <div align="center"> 
   <h3>📈 GITHUB STATS</h3>
   <span>
-    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
-    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&layout=compact&theme=react&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true"/>
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&layout=compact&theme=buefy&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook"/>
     <br>
   </pan>
 </div>
-
+<!-- bg_color=0D1117&title_color=ff0043&icon_color=ff0043 -->
 ### ⚡ GitHub Stats
 
 <p align="center">
