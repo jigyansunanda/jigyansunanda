@@ -94,6 +94,15 @@ _Bangalore, India (July 2021 – August 2022)_
 </p> -->
 
 <div align="center"> 
+  <h3>📁 Pinned Repositories</h3>
+  <span>
+    <img height="170rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Online-Code-Runner&theme=moltack&hide_border=true"/>
+    <img height="170rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Shortest-Path-Visualizer&theme=moltack&hide_border=true"/>
+    <br>
+  </pan>
+</div>
+
+<div align="center"> 
   <h3>⚡ GitHub Stats</h3>
   <span>
     <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&hide_border=true&hide_rank=true&hide_title=true"/>
