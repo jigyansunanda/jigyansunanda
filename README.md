@@ -83,16 +83,16 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Cloud Service
 
-<p align="center">
+<p align="left">
   <!-- <img height="25" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> -->
   <img  height="30" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/AWS-Dark.svg"/>
 </p>
 
-### 📊 Algorithmic Problem Solving
+<!-- ### 📊 Algorithmic Problem Solving
 
 <p align="center">
   <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
-</p>
+</p> -->
 
 ### ⚡ GitHub Stats
 
