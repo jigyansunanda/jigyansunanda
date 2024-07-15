@@ -96,8 +96,8 @@ _Bangalore, India (July 2021 – August 2022)_
 <div align="center"> 
   <h3>📈 GITHUB STATS</h3>
   <span>
-    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true"/>
-    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&layout=compact&theme=buefy&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook"/>
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&hide_border=true"/>
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&layout=compact&theme=calm_pink&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook"/>
     <br>
   </pan>
 </div>
