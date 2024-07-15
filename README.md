@@ -96,9 +96,8 @@ _Bangalore, India (July 2021 – August 2022)_
 <div align="center"> 
   <h3>📈 GITHUB STATS</h3>
   <span>
-    <!-- <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/> -->
-    <img height="160rem" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
-    <img height="160rem" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&theme=dark&show_icons=true&hide_border=true&langs_count=8&hide=css,html,jupyter%20notebook&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&layout=compact&theme=react&hide_border=true&&show_icons=true&hide_border=true&langs_count=8&hide=css,html,jupyter%20notebook&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
     <br>
   </pan>
 </div>
