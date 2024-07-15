@@ -47,7 +47,6 @@ _Bangalore, India (July 2021 – August 2022)_
 <img  height="25"  src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=b7410e&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=007396&color=grey"/>
-<img  height="25"  src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=yellow&labelColor=3776AB&color=grey"/>
 </p>
 
 ### Domain Specific Tools / Languages
