@@ -36,6 +36,34 @@ _Bangalore, India (July 2021 – August 2022)_
 | **Naidu +2 Science College** | Bhubaneswar, India | _June 2014 – May 2016_ | Higher Secondary Education (11th and 12th) |
 | **Kalinga Vidyapitha**       | Bhubaneswar, India | _May 2011 – May 2014_  | Secondary Education                        | -->
 
+<!-- ### 📊 Algorithmic Problem Solving
+
+<p align="center">
+  <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
+</p> -->
+
+<div align="center"> 
+  <h3>📁 Pinned Repositories</h3>
+  <span>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Online-Code-Runner&theme=bear&hide_border=true"/>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Shortest-Path-Visualizer&theme=bear&hide_border=true"/>
+  </pan>
+  <span>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Leetcode-Practice&theme=bear&hide_border=true"/>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=focus&theme=bear&hide_border=true"/>
+  </pan>
+</div>
+
+<div align="center"> 
+  <h3>⚡ GitHub Stats</h3>
+  <span>
+    <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=bear&hide_border=true&hide_rank=true&hide_title=true"/>
+    <img height="170rem" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&count_private=true&layout=compact&theme=bear&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook&hide_title=true"/>
+    <br>
+  </pan>
+</div>
+<!-- bg_color=0D1117&title_color=ff0043&icon_color=ff0043 -->
+
 <!-- ## 🛠️ Skills -->
 
 ### Programming Languages
@@ -83,34 +111,5 @@ _Bangalore, India (July 2021 – August 2022)_
 ### Cloud Service
 
 <p align="left">
-  <!-- <img height="25" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> -->
   <img  height="30" src="https://github.com/jigyansunanda/jigyansunanda/blob/main/assets/AWS-Dark.svg"/>
 </p>
-
-<!-- ### 📊 Algorithmic Problem Solving
-
-<p align="center">
-  <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
-</p> -->
-
-<div align="center"> 
-  <h3>📁 Pinned Repositories</h3>
-  <span>
-    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Online-Code-Runner&theme=bear&hide_border=true"/>
-    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Shortest-Path-Visualizer&theme=bear&hide_border=true"/>
-  </pan>
-  <span>
-    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Leetcode-Practice&theme=bear&hide_border=true"/>
-    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=focus&theme=bear&hide_border=true"/>
-  </pan>
-</div>
-
-<div align="center"> 
-  <h3>⚡ GitHub Stats</h3>
-  <span>
-    <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=bear&hide_border=true&hide_rank=true&hide_title=true"/>
-    <img height="170rem" src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&count_private=true&layout=compact&theme=bear&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook&hide_title=true"/>
-    <br>
-  </pan>
-</div>
-<!-- bg_color=0D1117&title_color=ff0043&icon_color=ff0043 -->
