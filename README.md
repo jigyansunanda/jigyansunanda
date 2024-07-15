@@ -96,8 +96,12 @@ _Bangalore, India (July 2021 – August 2022)_
 <div align="center"> 
   <h3>📁 Pinned Repositories</h3>
   <span>
-    <img height="180rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Online-Code-Runner&theme=moltack&hide_border=true"/>
-    <img height="180rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Shortest-Path-Visualizer&theme=moltack&hide_border=true"/>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Online-Code-Runner&theme=moltack&hide_border=true"/>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Shortest-Path-Visualizer&theme=moltack&hide_border=true"/>
+  </pan>
+  <span>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Leetcode-Practice&theme=moltack&hide_border=true"/>
+    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=focus&theme=moltack&hide_border=true"/>
   </pan>
 </div>
 
