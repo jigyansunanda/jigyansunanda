@@ -93,6 +93,17 @@ _Bangalore, India (July 2021 – August 2022)_
   <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
 </p> -->
 
+<div align="center"> 
+  <h3>📈 GITHUB STATS</h3>
+  <span>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyansunanda&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff0043&icon_color=ff0043"/>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=jigyansunanda&label=Profile%20views&color=ff0043&style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jigyansunanda?style=flat&logo=github&label=follow&color=ff0043">
+  </pan>
+</div>
+
 ### ⚡ GitHub Stats
 
 <p align="center">
