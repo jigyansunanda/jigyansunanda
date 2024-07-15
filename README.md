@@ -40,7 +40,7 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Programming Languages
 
-<p align="center">
+<p align="left">
 <img  height="25"  src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=white&labelColor=00ADD8&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=grey"/>
@@ -52,14 +52,14 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Domain Specific Tools / Languages
 
-<p align="center">
+<p align="left">
 <img  height="25"  src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=grey"/>
 </p>
 
 ### JavaScript Libraries
 
-<p align="center">
+<p align="left">
 <img  height="25"  src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=black&labelColor=61DAFB&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=white&labelColor=764abc&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=white&labelColor=0769AD&color=grey"/>
@@ -68,14 +68,14 @@ _Bangalore, India (July 2021 – August 2022)_
 
 ### Backend Frameworks
 
-<p align="center">
+<p align="left">
 <img  height="25"  src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white&labelColor=563D7C&color=grey"/>
 </p>
 
 ### Database
 
-<p align="center">
+<p align="left">
 <img  height="25"  src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=4479A1&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=grey"/>
 <img  height="25"  src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=white&labelColor=DC382D&color=grey"/>
