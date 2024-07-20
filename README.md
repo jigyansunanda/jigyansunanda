@@ -1,11 +1,11 @@
 <div align="center">
-  <h3>📁 Pinned Repositories</h3>
+  <h3>📌 Pinned Repositories</h3>
   <span>
     <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Online-Code-Runner&theme=bear&hide_border=true"/>
     <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Shortest-Path-Visualizer&theme=bear&hide_border=true"/>
   </pan>
   <span>
-    <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Leetcode-Practice&theme=bear&hide_border=true"/>
+    <img height="140rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=Leetcode-Practice&theme=bear&hide_border=true"/>
     <img height="140rem" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=jigyansunanda&repo=focus&theme=bear&hide_border=true"/>
   </pan>
 </div>
@@ -13,7 +13,7 @@
 <div align="center">
   <h3>⚡ GitHub Stats</h3>
   <span>
-    <img height="170rem" width="400px"  src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=bear&hide_border=true&hide_rank=true&hide_title=true"/>
+    <img height="170rem"  src="https://github-readme-stats.vercel.app/api?username=jigyansunanda&show_icons=true&include_all_commits=true&count_private=true&theme=bear&hide_border=true&hide_rank=true&hide_title=true"/>
     <img height="170rem" width="400px"  src="https://github-readme-stats-jigyansu-nandas-projects.vercel.app/api/top-langs/?username=jigyansunanda&count_private=true&layout=compact&theme=bear&hide_border=true&show_icons=true&langs_count=8&hide=css,html,jupyter%20notebook&hide_title=true"/>
     <br>
   </pan>
