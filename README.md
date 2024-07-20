@@ -1,7 +1,3 @@
-<p align="center">
-  <img height="300em" width="500em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
-</p> -->
-
 <div align="center">
   <h3>📁 Pinned Repositories</h3>
   <span>
