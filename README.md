@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <h3>📌 Pinned Repositories</h3>
   <span>
@@ -19,3 +20,13 @@
   </pan>
 </div>
 <!-- bg_color=0D1117&title_color=779e00&text_color=b4bfc2&title_color=ff0043&icon_color=ff0043 -->
+
+-->
+
+My full-name is a bit difficult to pronounce, so you can call me  **Jig.**
+
+I currently work as an **AI and Automation Engineer**. In my previous role**s** I have worked as **Software Engineer** with responsibilities in **Backend** and **Full-stack**.
+
+***I am not looking for any job opportunities right now.***
+
+Thank you. Have a good day.
