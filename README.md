@@ -25,7 +25,7 @@
 
 My first-name is a bit difficult to pronounce, so you can call me  **Jig.**
 
-I currently work as an **AI and Automation Engineer**. In my previous role**s** I have worked as **Software Engineer** with responsibilities in **Backend** and **Full-stack**.
+I currently work as an **AI and Automation Engineer**. In my previous roles I have worked as **Software Engineer** with responsibilities in **Backend** and **Full-stack**.
 
 ***I am not looking for any job opportunities right now.***
 
