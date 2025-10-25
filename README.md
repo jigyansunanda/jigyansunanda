@@ -22,11 +22,7 @@
 -->
 <!-- bg_color=0D1117&title_color=779e00&text_color=b4bfc2&title_color=ff0043&icon_color=ff0043 -->
 
-Hi.
-
-You can call me  **Jig.**
-
-I currently work as an **AI and Automation Engineer**. In my previous roles I have worked as **Software Engineer** with responsibilities in **Backend** and **Full-stack**.
+Hi. You can call me  **Jig.**
 
 ***I am not looking for any job opportunities right now.***
 
